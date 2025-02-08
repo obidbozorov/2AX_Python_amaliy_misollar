@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c72527c-c645-45f5-b409-aace7e3faff5" name="Changes" comment="1-dars">
-      <change afterPath="$PROJECT_DIR$/Shart operatorlari/Shart ifodalari.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-dars. Hello world/Hello World 1-dars.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-dars. Hello world/Hello World 1-dars.py" afterDir="false" />
-    </list>
+    <list default="true" id="0c72527c-c645-45f5-b409-aace7e3faff5" name="Changes" comment="2-dars" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738528988627</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2-dars">
+      <option name="closed" value="true" />
+      <created>1739018389947</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739018389947</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +246,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dars1" />
     <MESSAGE value="1-dars" />
-    <option name="LAST_COMMIT_MESSAGE" value="1-dars" />
+    <MESSAGE value="2-dars" />
+    <option name="LAST_COMMIT_MESSAGE" value="2-dars" />
   </component>
 </project>
