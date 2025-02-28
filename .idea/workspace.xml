@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c72527c-c645-45f5-b409-aace7e3faff5" name="Changes" comment="2-dars" />
+    <list default="true" id="0c72527c-c645-45f5-b409-aace7e3faff5" name="Changes" comment="2-dars">
+      <change afterPath="$PROJECT_DIR$/3. Takrorlash operatorlari/Fortakrorlashoperatori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Takrorlash operatorlari/Whileoperatori.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Istisno holatlar bilan ishlash/Istisno holatlar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Ro'yhatlar bilan ishlash/Ruyhatlar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shart operatorlari/Shart ifodalari.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Shart operatorlari/Shart ifodalari.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -36,16 +44,22 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2sRCJBtAruOTtMgsmJ27be7Nk8J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Fortakrorlashoperatori.executor": "Run",
     "Python.Hello World 1-dars (1).executor": "Run",
     "Python.Hello World 1-dars.executor": "Run",
+    "Python.Istisno holatlar.executor": "Run",
+    "Python.Ruyhatlar.executor": "Run",
     "Python.Shart ifodalari.executor": "Run",
+    "Python.Whileoperatori.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -59,8 +73,8 @@
       <recent name="D:\Fanlar\2024-2025\2AX Python amaliy misollar\1-dars. Hello world" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Shart ifodalari">
-    <configuration name="Hello World 1-dars (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ruyhatlar">
+    <configuration name="Fortakrorlashoperatori" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2AX Python amaliy misollar" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-dars. Hello world" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Takrorlash operatorlari" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-dars. Hello world/Hello World 1-dars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Takrorlash operatorlari/Fortakrorlashoperatori.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Hello World 1-dars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Istisno holatlar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2AX Python amaliy misollar" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,11 +105,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4. Istisno holatlar bilan ishlash" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Fanlar\2024-2025\2AX Python amaliy misollar\1-dars. Hello world\Hello World 1-dars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4. Istisno holatlar bilan ishlash/Istisno holatlar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ruyhatlar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2AX Python amaliy misollar" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5. Ro'yhatlar bilan ishlash" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5. Ro'yhatlar bilan ishlash/Ruyhatlar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Whileoperatori" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2AX Python amaliy misollar" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Takrorlash operatorlari" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Takrorlash operatorlari/Whileoperatori.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,10 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ruyhatlar" />
+        <item itemvalue="Python.Istisno holatlar" />
+        <item itemvalue="Python.Fortakrorlashoperatori" />
+        <item itemvalue="Python.Whileoperatori" />
         <item itemvalue="Python.Shart ifodalari" />
-        <item itemvalue="Python.Hello World 1-dars" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Hello World 1-dars (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739018389947</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2-dars">
+      <option name="closed" value="true" />
+      <created>1739018497356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739018497356</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
