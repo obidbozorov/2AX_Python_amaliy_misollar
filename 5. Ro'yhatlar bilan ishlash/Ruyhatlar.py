@@ -63,11 +63,11 @@ poytaxtlar.append("Ashgabad")
 # print(min(son))
 # # sonteskari=son.reverse()
 # print(sonteskari)
-# if 'Ashgabad' in poytaxtlar:
-#     print("Bor")
-# else:
-#     print("Yo'q")
-# poytaxtlar.sort()
+if 'Ashgabad' in poytaxtlar:
+    print("Bor")
+else:
+    print("Yo'q")
+poytaxtlar.sort()
 poytaxtlar.sort()
 poytaxtlar.reverse()
 print(poytaxtlar)
