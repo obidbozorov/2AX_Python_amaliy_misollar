@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c72527c-c645-45f5-b409-aace7e3faff5" name="Changes" comment="2-dars">
-      <change afterPath="$PROJECT_DIR$/6. Funksiyalar/Funksiyalar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6. Funksiyalar/Ruzmatov.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dars/Istisnoholatlar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,26 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Fortakrorlashoperatori.executor": "Run",
-    "Python.Funksiyalar.executor": "Run",
-    "Python.Hello World 1-dars (1).executor": "Run",
-    "Python.Hello World 1-dars.executor": "Run",
-    "Python.Istisno holatlar.executor": "Run",
-    "Python.Ruyhatlar.executor": "Run",
-    "Python.Ruzmatov.executor": "Run",
-    "Python.Shart ifodalari.executor": "Run",
-    "Python.Whileoperatori.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Fanlar/2024-2025/2AX Python amaliy misollar/dars",
-    "settings.editor.selected.configurable": "http.proxy"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Fortakrorlashoperatori.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funksiyalar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello World 1-dars (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello World 1-dars.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Istisno holatlar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ruyhatlar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ruzmatov.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Shart ifodalari.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Whileoperatori.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Fanlar/2024-2025/2AX Python amaliy misollar/dars&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Fanlar\2024-2025\2AX Python amaliy misollar\dars" />
