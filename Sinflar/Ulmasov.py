@@ -5,3 +5,4 @@ class Talaba:
         self.kurs=kursi
         self.univer="O'zMU"
         self.stipendiyasi=800000
+#konstruktor uchun misol
