@@ -1,0 +1,53 @@
+Muradullayev AnvarMavzu: hashlib xeshlash kutubxonasidan foydalanish.
+REJA:.
+1.	Hashlib kutubxonasini o’rnatish.
+2.	MD5, SHA1, SHA2 heshlash funksiyalaridan foydalanish.
+3.	Parollarni heshlash.
+Hashlib xeshlash kutubxonasil turli xil xavfsiz xeshlash algoritmlari uchun umumiy interfeysni amalga oshiradi. FIPS xavfsiz xesh algoritmlari SHA1, SHA224, SHA256, SHA384 va SHA512 (FIPS 180-2 da belgilangan) hamda RSA algoritmi uchun MD5 algoritmi (internetda belgilangan) kiradi.
+Eslatma: Agar sizga adler32 yoki crc32 xesh funksiyalari kerak bo’lsa, ular zlib modulda mavjud.
+import hashlib
+print(hashlib.algorithms_available)
+print(hashlib.algorithms_guaranteed)
+
+hash_object = hashlib.sha224(b'Hello World')
+print(hash_object.hexdigest())
+
+
+import hashlib
+file = f"1.txt"
+BLOCK_SIZE = 65536
+file_hash = hashlib.sha256()
+with open(file, 'rb') as f:
+    fb = f.read(BLOCK_SIZE)
+    while len(fb) > 0:
+        file_hash.update(fb)
+        fb = f.read(BLOCK_SIZE)
+
+print (file_hash.hexdigest())
+Python
+import uuid
+import hashlib
+
+def hash_password(password):
+    # uuid используется для генерации случайного числа
+    salt = uuid.uuid4().hex
+    return hashlib.sha256(salt.encode() + password.encode()).hexdigest() + ':' + salt
+
+def check_password(hashed_password, user_password):
+    password, salt = hashed_password.split(':')
+    return password == hashlib.sha256(salt.encode() + user_password.encode()).hexdigest()
+
+new_pass = input('Введите пароль: ')
+hashed_password = hash_password(new_pass)
+print('Строка для хранения в базе данных: ' + hashed_password)
+old_pass = input('Введите пароль еще раз для проверки: ')
+
+if check_password(hashed_password, old_pass):
+    print('Вы ввели правильный пароль')
+else:
+    print('Извините, но пароли не совпадают')
+
+pip install pyqt5
+pip install  pyqt-tools
+pyuic5 -x aaa.ui -o aa.py
+
